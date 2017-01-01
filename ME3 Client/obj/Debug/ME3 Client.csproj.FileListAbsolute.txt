@@ -1,0 +1,10 @@
+c:\users\thegan\documents\visual studio 2015\Projects\ME3 Client\ME3 Client\bin\Debug\ME3 Client.exe.config
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3 Client.csprojResolveAssemblyReference.cache
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3Server_WV.Frontend.resources
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3_Client.Properties.Resources.resources
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\Setup.SetupForClient.resources
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3 Client.csproj.GenerateResource.Cache
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\bin\Debug\ME3 Client.exe
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\bin\Debug\ME3 Client.pdb
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3 Client.exe
+C:\Users\Thegan\Documents\Visual Studio 2015\Projects\ME3 Client\ME3 Client\obj\Debug\ME3 Client.pdb
